@@ -26,7 +26,7 @@ The Interactive Carousel Slider visually represents events with dynamic images, 
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/ramleela-timeline-app.git
+   git clone https://github.com/Shubham-Ghoshh/Ramleela.git
 
 2. Navigate to the project directory:
    cd ramleela-timeline-app
